@@ -26,7 +26,7 @@ Welcome to the Doctor Appointment App! This Flutter application allows users to 
 
 1. Clone this repository for ui: git clone https://github.com/lpsunilkumar007/flutter_mobile_app
 
-2. Run the Api : Now, you can run the api
+2. Run the Api : Now, you can run the api project
 3. Prerequisites: Ensure you have Flutter installed on your system. If not, you can install it from the official Flutter website.
 
 4. Install Dependencies: Navigate to the project directory and install the required dependencies
@@ -34,7 +34,9 @@ Welcome to the Doctor Appointment App! This Flutter application allows users to 
 5. Run the App: Now, you can run the app on your connected device or emulator
 
 ## Images 
-![App Screenshot](https://i.imgur.com/qTKxt2f.png)
+![Image 1](https://i.imgur.com/DeCJlut.png) ![Image 2](https://i.imgur.com/Ep5mKAL.png)
 
-![App Screenshot](https://i.imgur.com/EKlFnx4.png)
+![Image 3](https://i.imgur.com/qTKxt2f.png) ![Image 4](https://i.imgur.com/xjoTQKi.png)
+
+![Image 5](https://i.imgur.com/EKlFnx4.png)
 
