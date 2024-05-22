@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0803D94-FD24-4F5F-A152-665D8B017CAF}|Appointment.csproj|c:\\workplace\\flutter\\appointment\\appointment\\appointment\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0803D94-FD24-4F5F-A152-665D8B017CAF}|Appointment.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064FDC81-463A-4C19-A108-FEC1370A3DD0}|..\\Appointment.Service\\Appointment.Service.csproj|c:\\workplace\\flutter\\appointment\\appointment\\appointment.service\\repositories\\appointmentasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23477FC7-AD49-481C-A590-9072BA4DB054}|..\\Appointment.Core\\Appointment.Core.csproj|c:\\workplace\\flutter\\appointment\\appointment\\appointment.core\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23477FC7-AD49-481C-A590-9072BA4DB054}|..\\Appointment.Core\\Appointment.Core.csproj|c:\\workplace\\flutter\\appointment\\appointment\\appointment.core\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23477FC7-AD49-481C-A590-9072BA4DB054}|..\\Appointment.Core\\Appointment.Core.csproj|c:\\workplace\\flutter\\appointment\\appointment\\appointment.core\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23477FC7-AD49-481C-A590-9072BA4DB054}|..\\Appointment.Core\\Appointment.Core.csproj|c:\\workplace\\flutter\\appointment\\appointment\\appointment.core\\interfaces\\iappointmentasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23477FC7-AD49-481C-A590-9072BA4DB054}|..\\Appointment.Core\\Appointment.Core.csproj|c:\\workplace\\flutter\\appointment\\appointment\\appointment.core\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C88A26A-2618-4C63-8FCF-A6C04C9CA932}|..\\Appointment.Data\\Appointment.Data.csproj|c:\\workplace\\flutter\\appointment\\appointment\\appointment.data\\appointmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0803D94-FD24-4F5F-A152-665D8B017CAF}|Appointment.csproj|c:\\workplace\\flutter\\appointment\\appointment\\appointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0803D94-FD24-4F5F-A152-665D8B017CAF}|Appointment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Core\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "..\\Appointment.Core\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Core\\Models\\Appointment.cs",
+              "RelativeToolTip": "..\\Appointment.Core\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:46:06.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Core\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "..\\Appointment.Core\\Models\\Patient.cs",
+              "ToolTip": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Core\\Models\\Patient.cs",
+              "RelativeToolTip": "..\\Appointment.Core\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:45:26.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientDTO.cs",
+              "DocumentMoniker": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Core\\DTOs\\PatientDTO.cs",
+              "RelativeDocumentMoniker": "..\\Appointment.Core\\DTOs\\PatientDTO.cs",
+              "ToolTip": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Core\\DTOs\\PatientDTO.cs",
+              "RelativeToolTip": "..\\Appointment.Core\\DTOs\\PatientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:44:33.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorDTO.cs",
+              "DocumentMoniker": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Core\\DTOs\\DoctorDTO.cs",
+              "RelativeDocumentMoniker": "..\\Appointment.Core\\DTOs\\DoctorDTO.cs",
+              "ToolTip": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Core\\DTOs\\DoctorDTO.cs",
+              "RelativeToolTip": "..\\Appointment.Core\\DTOs\\DoctorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:47:45.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:45:03.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentContext.cs",
+              "DocumentMoniker": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Data\\AppointmentContext.cs",
+              "RelativeDocumentMoniker": "..\\Appointment.Data\\AppointmentContext.cs",
+              "ToolTip": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Data\\AppointmentContext.cs",
+              "RelativeToolTip": "..\\Appointment.Data\\AppointmentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:36:44.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:36:44.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentAsync.cs",
+              "DocumentMoniker": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Service\\Repositories\\AppointmentAsync.cs",
+              "RelativeDocumentMoniker": "..\\Appointment.Service\\Repositories\\AppointmentAsync.cs",
+              "ToolTip": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Service\\Repositories\\AppointmentAsync.cs",
+              "RelativeToolTip": "..\\Appointment.Service\\Repositories\\AppointmentAsync.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAD4vykAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:55:29.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAppointmentAsync.cs",
+              "DocumentMoniker": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Core\\Interfaces\\IAppointmentAsync.cs",
+              "RelativeDocumentMoniker": "..\\Appointment.Core\\Interfaces\\IAppointmentAsync.cs",
+              "ToolTip": "C:\\Workplace\\Flutter\\Appointment\\Appointment\\Appointment.Core\\Interfaces\\IAppointmentAsync.cs",
+              "RelativeToolTip": "..\\Appointment.Core\\Interfaces\\IAppointmentAsync.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:20:21.594Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

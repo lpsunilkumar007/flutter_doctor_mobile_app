@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178181282925",
+    "project_id": "fir-be1fc",
+    "storage_bucket": "fir-be1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178181282925:android:bb3cdc3c413a429984f364",
+        "android_client_info": {
+          "package_name": "com.example.hospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMu6QkvryxMcuJx5KA3QWa3YDS9-2Y4dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
